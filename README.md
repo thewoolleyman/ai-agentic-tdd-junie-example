@@ -2,7 +2,7 @@
 
 ## Agentic AI Exploration with JetBrains Junie
 
-Everything in this repo except for this paragraph and the original `.junie/guidelines.md` were created via the JetBrains Junie agentic AI tool. As you can see from the git history, it took less than an hour. 🤖 🤔
+Everything in this repo except for this paragraph and the original `.junie/guidelines.md` were created via the JetBrains Junie agentic AI tool. `guidlines.md` was originally imported from [an existing Word doc I had and exported to Markdown](https://docs.google.com/document/d/1xHXFYQ8SFza0Te_CYOV_A0pc_gQN2elWdB5b0jCkvtY/edit?tab=t.0#heading=h.8om2kbm4x2w5) As you can see from the git history, it took less than an hour. 🤖 🤔
 
 ## Project Purpose
 This project was created to illustrate the ability of Junie AI to create an app based on original requirements in `.junie/guidelines.md`. It serves as a demonstration of how to implement a simple web application following TDD practices.
